@@ -7540,7 +7540,7 @@ button.bg-dark:focus {
 
 .pt-3,
 .py-3 {
-  padding-top: 1rem !important;
+  padding-top: 0rem !important;
 }
 
 .pr-3,
@@ -7550,7 +7550,7 @@ button.bg-dark:focus {
 
 .pb-3,
 .py-3 {
-  padding-bottom: 1rem !important;
+  padding-bottom: 0rem !important;
 }
 
 .pl-3,
@@ -7878,7 +7878,7 @@ button.bg-dark:focus {
   }
   .pb-sm-0,
   .py-sm-0 {
-    padding-bottom: 0 !important;
+    padding-bottom: 1 !important;
   }
   .pl-sm-0,
   .px-sm-0 {
@@ -7931,7 +7931,7 @@ button.bg-dark:focus {
   }
   .pr-sm-3,
   .px-sm-3 {
-    padding-right: 1rem !important;
+    padding-right: 0rem !important;
   }
   .pb-sm-3,
   .py-sm-3 {
